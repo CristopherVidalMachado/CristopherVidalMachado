@@ -2,7 +2,7 @@
 - 🔭 I’m currently working in Nodejs Projects
 - 🌱 I'm currently learning how to build good and sustainable workflows with temporal.
 - 💬 Ask me about solar energy, hardware hacking, agriculture and devops
-- ⚡ Fun fact: null reference was created in 1965.
+- ⚡ Fun fact: I'm working to make emojis better for everyone.
 <!--
 **CristopherVidalMachado/CristopherVidalMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
